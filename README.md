@@ -23,7 +23,6 @@ Languages, tools and services:
 
 ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=ffffff)
@@ -33,6 +32,8 @@ Languages, tools and services:
 
 
 <!--
+![Static Badge](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=ffffff)
+
 **MaxRMNK/MaxRMNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
