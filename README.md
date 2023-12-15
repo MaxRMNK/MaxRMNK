@@ -1,4 +1,4 @@
-Hi! I'm Max, Web Developer and SEO Specialist.
+### Hi! I'm Max, Web Developer and SEO Specialist
 
 Languages, tools and services:
 
