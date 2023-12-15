@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi! I'm Max, Web Developer and SEO Specialist.
+
+Languages, tools and services:
 
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
@@ -14,7 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000000)
-<!-- ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff) -->
+![Static Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=ffffff)
