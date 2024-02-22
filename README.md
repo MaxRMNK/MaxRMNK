@@ -7,7 +7,6 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
@@ -16,7 +15,8 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
 
-<!-- ![Static Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=ffffff)
+<!-- ![Static Badge](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff) -->
