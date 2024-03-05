@@ -7,15 +7,15 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
 
 <!--
+![Static Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=ffffff)
