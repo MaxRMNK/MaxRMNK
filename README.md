@@ -25,6 +25,7 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
 -->
 
 ![Static Badge](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
