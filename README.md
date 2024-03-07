@@ -31,6 +31,7 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=ffffff)
 
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=ffffff)
