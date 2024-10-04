@@ -8,6 +8,7 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
@@ -26,7 +27,9 @@ Languages, tools and services:
 
 
 <!--
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Vercel-dddddd?style=flat-square&logo=vercel&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
