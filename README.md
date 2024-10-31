@@ -12,12 +12,12 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-
-![Static Badge](https://img.shields.io/badge/Feature_Sliced_Design-666666?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABISURBVHgB7dKxCQAgDETR0w2cws0cys2cwhEUBbsggikCuVekDHwSQFlYo7Q+8KnmtHdFWMdk2cl5wSsbxGSZw8dm8pX9ZHUTMBUgGU2F718AAAAASUVORK5CYII=)
-![Static Badge](https://img.shields.io/badge/BEM-000000?style=flat-square&logo=bem&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+
+![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Feature_Sliced_Design-666666?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABISURBVHgB7dKxCQAgDETR0w2cws0cys2cwhEUBbsggikCuVekDHwSQFlYo7Q+8KnmtHdFWMdk2cl5wSsbxGSZw8dm8pX9ZHUTMBUgGU2F718AAAAASUVORK5CYII=)
+
 
 ---
 
