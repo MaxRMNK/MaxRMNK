@@ -17,10 +17,9 @@ Languages, tools and services:
 ![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-2d5c8c?style=flat-square&logo=postgresql&logoColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Feature_Sliced_Design-666666?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABISURBVHgB7dKxCQAgDETR0w2cws0cys2cwhEUBbsggikCuVekDHwSQFlYo7Q+8KnmtHdFWMdk2cl5wSsbxGSZw8dm8pX9ZHUTMBUgGU2F718AAAAASUVORK5CYII=)
 
